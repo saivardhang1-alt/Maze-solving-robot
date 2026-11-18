@@ -74,3 +74,5 @@ Arduino program uploaded. Hardware testing and calibration required.
 - Implement more advanced maze-solving algorithms.
 - Add path memory and optimization.
 - Improve turning accuracy using motor calibration.
+  ##Project Demo
+  ![Maze Solving Robot](maze-robot.jpg.jpeg)
