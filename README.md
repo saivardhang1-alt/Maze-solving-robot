@@ -44,7 +44,12 @@ An autonomous robot developed using Arduino UNO that navigates through a maze by
 | ENB | 4 |
 ## Circuit Diagram
 ![Maze Solving Robot Circuit Diagram](circuit-diagram.png.jpeg)
-
+## Key Features
+- Obstacle detection using three ultrasonic sensors.
+- Automatic forward movement when the path is clear.
+- Left and right distance comparison.
+- Automatic turning toward the side with more available space.
+- Motor control using the L298N driver.
 ## Source Code
 See `code/maze_solver.ino`.
 
