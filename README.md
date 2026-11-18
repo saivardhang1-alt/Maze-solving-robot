@@ -42,6 +42,8 @@ An autonomous robot developed using Arduino UNO that navigates through a maze by
 | Motor 2 | 12, 13 |
 | ENA | 7 |
 | ENB | 4 |
+## Circuit Diagram
+![Maze Solving Robot Circuit Diagram](circuit-diagram.png)
 
 ## Source Code
 See `code/maze_solver.ino`.
